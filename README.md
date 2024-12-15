@@ -1,7 +1,7 @@
 # Y470 Hackintosh
 OpenCore EFI for Lenovo Y470
 
-Based on OpenCore 0.6.7（only for hotpatch）
+2024.12 更新opencore至1.0.2
 
 CPU:Intel i7-2760QM
 
